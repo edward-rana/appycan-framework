@@ -8,11 +8,11 @@
 
 define("DB_HOSTNAME", "localhost");
 
-define("DB_USERNAME", "root");
+define("DB_USERNAME", "DB_USERNAME");
 
-define("DB_PASSWORD", "");
+define("DB_PASSWORD", "DB_PASSWORD");
 
-define("DB_DATABASE", "appycan_framework");
+define("DB_DATABASE", "DATABASE_NAME");
 
 date_default_timezone_set("Asia/Kolkata"); //India time (GMT+5:30)
 
