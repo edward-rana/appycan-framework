@@ -53,6 +53,8 @@ $GLOBALS = array(
 
 	/**------------------------------------------------------------------*
 	* Super admin url first segment //Can be changed by filter
+	* @======## Coming soon ##=====@
+	* Super admin page under development process.
 	**-------------------------------------------------------------------*/
 	//'appy_admin_segment' 	 => 'super-admin',
 );
